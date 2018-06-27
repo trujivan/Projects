@@ -3,7 +3,7 @@ Feb 27 th 2017;
  The purose of this project is to create a game
  where there are 3 players with the objective of 
  creating an "L" with the same character symbol
- not it's tictactoe friend!                   */
+ now it's tictactoe my friend!                */
 
 #include <stdio.h>
 #include <string.h>
